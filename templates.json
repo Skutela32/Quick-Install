@@ -9,9 +9,28 @@
   "packages": [
     {
       "language": "en_us",
-      "description": "FiveM",
+      "description": "FiveM Artifact 9572",
       "title": "FiveM Server",
-      "runtime": "CPU CORE - 1",
+      "runtime": "N/A",
+      "hardware": "RAM 3G+",
+      "size": "1500MB",
+      "remark": "",
+      "targetLink": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/9572-d5255f9b275a15fc3c693d13141ca19d8f2568b8/server.7z",
+      "author": "alongw.cn",
+      "setupInfo": {
+        "type": "fivem",
+        "startCommand": "start_9572_default.bat",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
+      "description": "FiveM Artifact 9282",
+      "title": "FiveM Server",
+      "runtime": "N/A",
       "hardware": "RAM 3G+",
       "size": "1500MB",
       "remark": "",
@@ -41,82 +60,6 @@
         "startCommand": "java -jar server.jar -nogui",
         "stopCommand": "stop",
         "updateCommand": "",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "language": "en_us",
-      "description": "[Paper] Minecraft 1.20.1 Paper",
-      "title": "Minecraft 1.20.1",
-      "runtime": "Java 22",
-      "hardware": "RAM 4G+",
-      "size": "200MB",
-      "remark": "Includes some basic plugins",
-      "targetLink": "https://cloud.alongw.cn/f/jwjsl/Paper-1.20.1-EN.zip",
-      "author": "alongw.cn",
-      "setupInfo": {
-        "type": "minecraft/java",
-        "startCommand": "java -jar server.jar -nogui",
-        "stopCommand": "stop",
-        "updateCommand": "",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "language": "en_us",
-      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
-      "title": "Forge 1.20.6 (Support Mods)",
-      "runtime": "Java 21+",
-      "hardware": "RAM 8G+",
-      "size": "7MB",
-      "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.6-50.0.8/forge-1.20.6-50.0.8-installer.jar",
-      "author": "minecraftforge.net",
-      "setupInfo": {
-        "type": "minecraft/java/forge",
-        "startCommand": "sh ./run.sh",
-        "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.20.6-50.0.8-installer.jar --installServer",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "language": "en_us",
-      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
-      "title": "Forge 1.20.1 (Support Mods)",
-      "runtime": "Java 21+",
-      "hardware": "RAM 8G+",
-      "size": "7MB",
-      "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.32/forge-1.20.1-47.2.32-installer.jar",
-      "author": "minecraftforge.net",
-      "setupInfo": {
-        "type": "minecraft/java/forge",
-        "startCommand": "sh ./run.sh",
-        "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.20.1-47.2.32-installer.jar --installServer",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "language": "en_us",
-      "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
-      "title": "Forge 1.19.2 (Support Mods)",
-      "runtime": "Java 17+",
-      "hardware": "RAM 8G+",
-      "size": "7MB",
-      "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-installer.jar",
-      "author": "minecraftforge.net",
-      "setupInfo": {
-        "type": "minecraft/java/forge",
-        "startCommand": "sh ./run.sh",
-        "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.19.2-43.3.13-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
