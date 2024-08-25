@@ -15,30 +15,11 @@
       "hardware": "RAM 3G+",
       "size": "1500MB",
       "remark": "",
-      "targetLink": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/9572-d5255f9b275a15fc3c693d13141ca19d8f2568b8/server.7z",
+      "targetLink": "https://drive.google.com/file/d/1BOWahchqS2ZNMbvx38pi-99qnot-ZOGZ/view?usp=sharing",
       "author": "alongw.cn",
       "setupInfo": {
         "type": "fivem",
         "startCommand": "start_9572_default.bat",
-        "stopCommand": "stop",
-        "updateCommand": "",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "language": "en_us",
-      "description": "FiveM Artifact 9282",
-      "title": "FiveM Server",
-      "runtime": "N/A",
-      "hardware": "RAM 3G+",
-      "size": "1500MB",
-      "remark": "",
-      "targetLink": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/9282-ecd511b7f05629ff09765cd397ad2e15a69854de/server.7z",
-      "author": "alongw.cn",
-      "setupInfo": {
-        "type": "fivem",
-        "startCommand": "start_9282_default.bat",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
