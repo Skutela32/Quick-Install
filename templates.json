@@ -15,11 +15,11 @@
       "hardware": "RAM 3G+",
       "size": "1500MB",
       "remark": "",
-      "targetLink": "https://drive.google.com/file/d/1BOWahchqS2ZNMbvx38pi-99qnot-ZOGZ/view?usp=sharing",
+      "targetLink": "https://drive.usercontent.google.com/download?id=1BOWahchqS2ZNMbvx38pi-99qnot-ZOGZ",
       "author": "alongw.cn",
       "setupInfo": {
         "type": "fivem",
-        "startCommand": "start_9572_default.bat",
+        "startCommand": "+set txAdminPort "40120"",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
