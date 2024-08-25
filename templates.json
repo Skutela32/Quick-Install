@@ -19,7 +19,7 @@
       "author": "alongw.cn",
       "setupInfo": {
         "type": "fivem",
-        "startCommand": "+set txAdminPort "40120"",
+        "startCommand": "+set txAdminPort 40120",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
